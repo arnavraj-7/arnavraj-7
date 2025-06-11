@@ -69,7 +69,8 @@
 ---
 
 ### 🔥 Featured Project
-
+<img src="https://gifs.anmolbaranwal.com/coding-vibe.gif" alt="Coding Vibe" width="240px"/>
+<img src="https://gifs.anmolbaranwal.com/pro-coder-avatar.gif" alt="Pro Coder Avatar" width="120px"/>
 #### 🎧 Spotify Clone
 > **Real-time chat and activity + live music playback**
 
