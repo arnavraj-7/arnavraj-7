@@ -1,128 +1,246 @@
-# <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2BI%27m%2BArnav%2BRaj;Full%2BStack%2BDeveloper%2B%F0%9F%92%BB;Always%2BLearning%2B%F0%9F%92%A1" alt="Typing SVG">
-</h1>
+# Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Arnav Raj
 
-<p align="center">
-  <img src="demo/spotify-demo.gif" alt="Spotify Bundle Demo" width="70%" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D4AA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;MERN+Stack+Expert+%E2%9A%A1;Blockchain+Enthusiast+%F0%9F%94%97;Problem+Solver+%F0%9F%A7%A9;Always+Learning+%F0%9F%93%9A;Building+the+Future+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghp-vc/?username=arnavraj-7&color=blueviolet" alt="Profile views" />
-  <a href="https://github.com/arnavrajraj-7"><img src="https://img.shields.io/github/followers?username=arnavraj-7&style=flat-square&label=Follow" alt="GitHub followers" /></a>
-  <a href="https://x.com/excuzemearnav"><img src="https://img.shields.io/x/follow?label=Follow&style=social" alt="Follow on X" /></a>
-</p>
-
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=arnavraj-7&theme=onedark&no-frame=true&margin-w=10" alt="GitHub Trophies" />
-</p>
+<div align="center">
+  <img src="https://komarev.com/github-profile-views?username=arnavraj-7&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/arnavraj-7?label=Followers&style=social" alt="GitHub Badge" />
+</div>
 
 ---
 
-### 👨‍💻 About Me</a>
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"/>
 
-- 🔍 I’m currently working on **Memory Canvas** and other creative full-stack projects 🌟
-- 🌱 I’m learning **MERN Stack**, **DSA**, **Competitive Programming**, and soon **AI/ML** 🚀
-- 💬 Ask me about **React**, **Frontend Architecture**, **State Management**, or **Scaling Projects** 🗣️
-- 📫 Reach me at: **arnavrajcodes@gmail.com** 📧
-- ⚡ **Fun fact**: I love turning random ideas into mini-projects — sometimes they become full apps! 🎉
+### 🚀 About Me
 
----
+- 🔭 Currently working on **Memory Canvas** and innovative full-stack solutions
+- 🌱 Deep diving into **MERN Stack**, **Blockchain Development**, **AI/ML**
+- 🎯 Learning **Third Web Framework**, **Advanced Solidity**, **DSA**
+- 💡 Passionate about turning **crazy ideas** into **real applications**
+- 🎵 Built a **Spotify Clone** with real-time features [(Check it out!)](https://spotify-clone-chi-dun.vercel.app/)
+- 💬 Ask me about **React Architecture**, **State Management**, **Blockchain**
+- 📫 Reach me: **arnavrajcodes@gmail.com**
+- ⚡ Fun fact: **Every bug is just an undocumented feature waiting to be discovered!**
 
-## 🛠️ Tech Stack & Tools
-
-### 💻 Languages
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" alt="Solidity" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" />
-</p>
-
-### 🌐 Frameworks & Libraries
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />
-  <img src="https://img.shields.io/badge/Mongoose-%2347A248?style=flat&logo=mongodb&logoColor=white" alt="Mongoose" />
-</p>
-
-### 🛠️ Tools & Platforms
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" width="40" />
-  <img src="https://img.shields.io/badge/Render-%2300C7B7?style=flat&logo=render&logoColor=white" alt="Render" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" />
-  <img src="https://img.shields.io/badge/Hardhat-%23F7DF1E?style=flat&logo=hardhat&logoColor=black" alt="Hardhat" />
-  <img src="https://img.shields.io/badge/Truffle-%235C2D91?style=flat&logo=truffle&logoColor=white" alt="Truffle" />
-  <img src="https://img.shields.io/badge/Thirdweb-%23FF0080?style=flat&logo=thirdweb&logoColor=white" alt="Thirdweb" />
-</p>
-
-### 📊 Animated Favicon
-<p align="center">
-  <img src="https://api.iconify.design/twemoji:rocket.gif" alt="Animated Rocket" width="30" />
-  <img src="https://api.iconify.design/twemoji:laptop.gif" alt="Animated Laptop" width="30" />
-  <img src="https://api.iconify.design/twemoji:sparkles.gif" alt="Animated Sparkles" width="30" />
-</p>
-
----
-
-## 🔥 Featured Project
-
-### 🎧 Spotify Clone
-> **Real-time chat and activity + live music playback**
-
-- 🌐 Live Site: [spotify-clone-chi-dun.vercel.app](https://spotify-clone-chi-dun.vercel.app/)
-- 📁 GitHub Repo: [github.com/arnavraj-7/Spotify-Clone](https://github.com/arnavraj-7/Spotify-Clone)
-- ⚠️ *Desktop only (mobile view not supported yet)*
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arnavraj-7&show_icons=true&theme=dracula&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnavraj-7&layout=compact&theme=dracula&langs_count=8" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arnavraj-7&theme=dracula" alt="GitHub Streak" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arnavraj-7&theme=dracula" alt="Repos per Language" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arnavraj-7&theme=dracula" alt="Contribution Graph" />
-</p>
+<br clear="both"/>
 
 ---
 
 ## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arnavraj-7&theme=dracula&no-frame=true&margin-w=10" alt="GitHub Trophies" />
-</p>
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/arnav-raj-7142b8313"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" /></a>
-  <a href="https://instagram.com/excuzemearnav"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="30" /></a>
-  <a href="https://codeforces.com/profile/arnavraj07"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="30" /></a>
-  <a href="https://x.com/excuzemearnav"><img src="https://img.shields.io/badge/X-%23000000?style=flat&logo=x&logoColor=white" alt="X" /></a>
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=arnavraj-7&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
+</div>
 
 ---
 
-> *"Always building. Always shipping. Never settling."*
+## 🔥 Streak Stats
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arnavraj-7&theme=radical&hide_border=false" alt="GitHub Streak Stats"/>
+</div>
 
-<p align="center">
-  <img src="https://api.iconify.design/twemoji:sparkling-heart.gif" alt="Animated Heart" width="30" />
+---
+
+## 💻 Tech Arsenal
+
+<details>
+<summary><b>🌟 Frontend Mastery</b></summary>
+<br>
+
+**Languages & Core**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" />
 </p>
+
+**Styling & UI**
+<p>
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass,materialui" />
+</p>
+
+**State Management & Tools**
+<p>
+  <img src="https://img.shields.io/badge/Zustand-%2300C2CB?style=for-the-badge&logo=zustand&logoColor=white" />
+  <img src="https://img.shields.io/badge/Context%20API-%23232F3E?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-%23593d88?style=for-the-badge&logo=redux&logoColor=white" />
+</p>
+</details>
+
+<details>
+<summary><b>⚙️ Backend & Database Power</b></summary>
+<br>
+
+**Backend Technologies**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,c" />
+</p>
+
+**Databases & Storage**
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis" />
+</p>
+
+**APIs & Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=postman,graphql,prisma" />
+</p>
+</details>
+
+<details>
+<summary><b>🔗 Blockchain & Web3</b></summary>
+<br>
+
+**Smart Contract Development**
+<p>
+  <img src="https://skillicons.dev/icons?i=solidity" />
+  <img src="https://img.shields.io/badge/Hardhat-%23FFF100?style=for-the-badge&logo=hardhat&logoColor=black" />
+  <img src="https://img.shields.io/badge/Truffle-%23FF6B6B?style=for-the-badge&logo=truffle&logoColor=white" />
+</p>
+
+**Web3 Frameworks (Learning)**
+<p>
+  <img src="https://img.shields.io/badge/ThirdWeb-%234F46E5?style=for-the-badge&logo=web3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ethereum-%23627EEA?style=for-the-badge&logo=ethereum&logoColor=white" />
+</p>
+</details>
+
+<details>
+<summary><b>🚀 DevOps & Deployment</b></summary>
+<br>
+
+**Hosting & Cloud**
+<p>
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,heroku,aws" />
+</p>
+
+**Version Control & CI/CD**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker" />
+</p>
+</details>
+
+<details>
+<summary><b>🎨 Design & Development Tools</b></summary>
+<br>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,vscode,sublime,vim" />
+</p>
+</details>
+
+---
+
+## 📊 The Numbers Game
+
+<div align="center">
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=arnavraj-7&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true"/>
+  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnavraj-7&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+</div>
+
+<div align="center">
+  <img width="390" src="https://github-readme-activity-graph.vercel.app/graph?username=arnavraj-7&theme=radical&hide_border=false"/>
+</div>
+
+---
+
+## 🌟 Featured Masterpiece
+
+<div align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100"/>
+</div>
+
+### 🎧 **Spotify Clone - Real-time Music Experience**
+
+> **Where code meets rhythm! A full-stack music streaming platform with real-time features**
+
+**🔗 Links:**
+- **Live Demo:** [spotify-clone-chi-dun.vercel.app](https://spotify-clone-chi-dun.vercel.app/)
+- **Source Code:** [GitHub Repository](https://github.com/arnavraj-7/Spotify-Clone)
+
+**✨ Features:**
+- 🎵 **Real-time music playback** with seamless streaming
+- 💬 **Live chat functionality** - jam with friends while listening
+- 📱 **Activity tracking** - see what others are vibing to
+- 🎨 **Responsive design** (Desktop optimized)
+- ⚡ **Lightning-fast performance** with optimized state management
+
+**🛠️ Built with:**
+`React` `Node.js` `Express` `MongoDB` `Socket.io` `Zustand` `Tailwind CSS` `Vercel`
+
+**⚠️ Note:** Currently optimized for desktop experience - mobile version coming soon!
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200"/>
+</div>
+
+---
+
+## 🎯 Current Focus & Future Goals
+
+<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>
+
+### 🔭 **Now Building:**
+- **Memory Canvas** - Next-gen creative platform
+- **Advanced Blockchain Projects** with Solidity
+- **AI-powered Full-stack Applications**
+
+### 🌱 **Learning Journey:**
+- **ThirdWeb Framework** for Web3 development
+- **Advanced Data Structures & Algorithms**
+- **Machine Learning & AI Integration**
+- **Microservices Architecture**
+
+### 🎯 **2025 Goals:**
+- Contribute to **major open-source projects**
+- Build **10+ innovative full-stack applications**
+- Master **AI/ML integration** in web development
+- Launch **blockchain-based solutions**
+
+<br clear="both"/>
+
+---
+
+## 🤝 Let's Connect & Collaborate!
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnav-raj-7142b8313)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/excuzemearnav)
+[![CodeForces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/arnavraj07)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnavrajcodes@gmail.com)
+
+</div>
+
+---
+
+## 🎪 Fun Zone
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" height="200"/>
+  
+  **Random Dev Quote:**
+  <br>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  
+  **Random Dev Joke:**
+  <br>
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=radical" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+  
+  ### 💡 *"Code is like humor. When you have to explain it, it's bad."*
+  
+  **Thanks for stopping by! Let's build something amazing together! 🚀**
+  
+  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
