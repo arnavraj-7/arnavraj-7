@@ -15,12 +15,10 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently working on **Memory Canvas** and innovative full-stack solutions
-- 🌱 Deep diving into **MERN Stack**, **Blockchain Development**, **AI/ML**
-- 🎯 Learning **Third Web Framework**, **Advanced Solidity**, **DSA**
+- 🔭 Currently building **full-stack MERN & Web3 Projects**
+- 🌱 Deep diving into **Blockchain Development**, **AI/ML**, **ThirdWeb**
 - 💡 Passionate about turning **crazy ideas** into **real applications**
-- 🎵 Built a **Spotify Clone** with real-time features [(Check it out!)](https://spotify-clone-chi-dun.vercel.app/)
-- 💬 Ask me about **React Architecture**, **State Management**, **Blockchain**
+- 💬 Ask me about **React**, **Smart Contracts**, **State Management**
 - 📫 Reach me: **arnavrajcodes@gmail.com**
 - ⚡ Fun fact: **Every bug is just an undocumented feature waiting to be discovered!**
 
@@ -143,35 +141,33 @@
 
 ---
 
-## 🌟 Featured Masterpiece
+## 🌟 Featured Projects
 
-<div align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100"/>
-</div>
+### 🎧 Spotify Clone - Real-time Music Experience
+> **Where code meets rhythm!** A full-stack music streaming platform with real-time chat.
 
-### 🎧 **Spotify Clone - Real-time Music Experience**
+🔗 [Live Demo](https://spotify-clone-chi-dun.vercel.app/) · [Source Code](https://github.com/arnavraj-7/Spotify-Clone)
 
-> **Where code meets rhythm! A full-stack music streaming platform with real-time features**
+---
 
-**🔗 Links:**
-- **Live Demo:** [spotify-clone-chi-dun.vercel.app](https://spotify-clone-chi-dun.vercel.app/)
-- **Source Code:** [GitHub Repository](https://github.com/arnavraj-7/Spotify-Clone)
+### 💡 Crowd-Spark — Web3 Crowdfunding Platform
+> Create campaigns, receive testnet donations, and interact with smart contracts
 
-**✨ Features:**
-- 🎵 **Real-time music playback** with seamless streaming
-- 💬 **Live chat functionality** - jam with friends while listening
-- 📱 **Activity tracking** - see what others are vibing to
-- 🎨 **Responsive design** (Desktop optimized)
-- ⚡ **Lightning-fast performance** with optimized state management
+🔗 [Live Demo](https://crowd-spark-ten.vercel.app/) · [Source Code](https://github.com/arnavraj-7/Crowd-Spark)
 
-**🛠️ Built with:**
-`React` `Node.js` `Express` `MongoDB` `Socket.io` `Zustand` `Tailwind CSS` `Vercel`
+---
 
-**⚠️ Note:** Currently optimized for desktop experience - mobile version coming soon!
+### 📌 TaskFlow — Productivity Task Manager
+> Kanban-style to-do manager built with React + Zustand
 
-<div align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200"/>
-</div>
+🔗 [Source Code](https://github.com/arnavraj-7/TaskFlow)
+
+---
+
+### 🎨 Memory Canvas *(WIP)*
+> Creative app for saving thoughts visually
+
+🔗 [Source Code](https://github.com/arnavraj-7/Memory-Canvas)
 
 ---
 
@@ -180,21 +176,19 @@
 <img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>
 
 ### 🔭 **Now Building:**
-- **Memory Canvas** - Next-gen creative platform
-- **Advanced Blockchain Projects** with Solidity
-- **AI-powered Full-stack Applications**
+- Real-world MERN Stack Projects
+- Full-fledged Blockchain dApps
+- UI-heavy Frontends using AI Tools
 
-### 🌱 **Learning Journey:**
-- **ThirdWeb Framework** for Web3 development
-- **Advanced Data Structures & Algorithms**
-- **Machine Learning & AI Integration**
-- **Microservices Architecture**
+### 🌱 **Learning:**
+- ThirdWeb / Solidity Pro
+- Microservices + DevOps
+- ML-powered Web Apps
 
 ### 🎯 **2025 Goals:**
-- Contribute to **major open-source projects**
-- Build **10+ innovative full-stack applications**
-- Master **AI/ML integration** in web development
-- Launch **blockchain-based solutions**
+- Ship 10+ full-stack projects
+- Land freelance gigs / internships
+- Improve CP + open-source contributions
 
 <br clear="both"/>
 
