@@ -155,7 +155,7 @@ const arnavraj = {
 <a href="https://github.com/arnavraj-7/Spotify-Clone" target="_blank"><img src="https://img.shields.io/badge/📂 Code-4ECDC4?style=for-the-badge" /></a>
 <br><br>
 <p><strong>🎵 Real-time Music Experience</strong></p>
-<p>Full-stack music streaming platform with real-time chat, playlist management, and premium music experience.</p>
+<p>Full-stack music streaming platform with real-time chat,user activity in real time, and premium music experience.</p>
 </div>
 </td>
 <td width="50%">
