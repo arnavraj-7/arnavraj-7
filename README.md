@@ -50,15 +50,14 @@ const arnavraj = {
     technologies: {
         frontEnd: {
             js: ["React", "Next.js"],
-            css: ["Tailwind", "Bootstrap", "Sass"]
+            css: ["Tailwind", "Bootstrap", "UI libraries"]
         },
         backEnd: {
             js: ["Node", "Express"],
-            python: ["Django"],
-            database: ["MongoDB", "MySQL", "PostgreSQL"]
+            database: ["MongoDB"]
         },
         blockchain: ["Solidity", "Hardhat", "ThirdWeb"],
-        tools: ["Docker", "AWS", "Git", "Figma"]
+        tools: ["Render","Postman" , "Vercel", "Git", "Figma"]
     },
     currentFocus: "Building Full-Stack MERN & Web3 Projects",
     funFact: "Every bug is just an undocumented feature!"
@@ -73,7 +72,7 @@ const arnavraj = {
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgresql,python,java,c,solidity,git,github,docker,aws,vercel,netlify,tailwind,bootstrap,sass,figma,vscode&perline=13" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,python,java,c,solidity,git,github,vercel,netlify,tailwind,bootstrap,figma,vscode&perline=13" />
   </a>
 </p>
 
@@ -90,7 +89,6 @@ const arnavraj = {
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 </p>
 
 ### <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="40"> Backend Development
@@ -108,7 +106,6 @@ const arnavraj = {
 <p align="left">
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
