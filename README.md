@@ -1,4 +1,4 @@
-# Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I’m Arnav Raj
+# Hello world! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I’m Arnav Raj
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=header&text=Welcome%20to%20my%20Digital%20Universe&fontSize=30&fontAlignY=30&desc=Where%20Code%20Meets%20Creativity&descAlignY=55&descAlign=50"/>
