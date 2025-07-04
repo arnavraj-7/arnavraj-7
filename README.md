@@ -1,11 +1,11 @@
-# Hello world! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I’m Arnav Raj
+# Hello world! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Arnav Raj
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=header&text=Welcome%20to%20my%20Digital%20Universe&fontSize=30&fontAlignY=30&desc=Where%20Code%20Meets%20Creativity&descAlignY=55&descAlign=50"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D4AA&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%F0%9F%92%BB;MERN+Stack+Expert+%E2%9A%A1;Blockchain+Enthusiast+%F0%9F%94%97;Problem+Solver+%F0%9F%A7%A9;Always+Learning+%F0%9F%93%9A;Building+the+Future+%F0%9F%9A%80;Code+Craft+Wizard+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F;Innovation+Engineer+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D4AA&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%F0%9F%92%BB;MERN+Stack+Expert+%E2%9A%A1;Mobile+App+Developer+%F0%9F%93%B1;Blockchain+Enthusiast+%F0%9F%94%97;Problem+Solver+%F0%9F%A7%A9;Always+Learning+%F0%9F%93%9A;Building+the+Future+%F0%9F%9A%80;Code+Craft+Wizard+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F;Innovation+Engineer+%F0%9F%94%A5" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -45,21 +45,23 @@
 ```javascript
 const arnavraj = {
     pronouns: "He" | "Him",
-    code: ["JavaScript", "Python", "Java", "Solidity"],
-    askMeAbout: ["web dev", "tech", "blockchain", "music"],
+    code: ["JavaScript", "TypeScript", "Python", "Java", "Solidity"],
+    askMeAbout: ["web dev", "mobile dev", "blockchain", "AI integration"],
     technologies: {
         frontEnd: {
-            js: ["React", "Next.js"],
+            js: ["React", "Next.js", "React Native"],
             css: ["Tailwind", "Bootstrap", "UI libraries"]
         },
         backEnd: {
             js: ["Node", "Express"],
             database: ["MongoDB"]
         },
+        mobile: ["React Native", "Expo"],
         blockchain: ["Solidity", "Hardhat", "ThirdWeb"],
-        tools: ["Render","Postman" , "Vercel", "Git", "Figma"]
+        ai: ["LangChain", "Gemini API"],
+        tools: ["Render", "Postman", "Vercel", "Git", "GitHub"]
     },
-    currentFocus: "Building Full-Stack MERN & Web3 Projects",
+    currentFocus: "Building Full-Stack MERN, Mobile Apps & Web3 Projects",
     funFact: "Every bug is just an undocumented feature!"
 };
 ```
@@ -72,7 +74,7 @@ const arnavraj = {
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,python,java,c,solidity,git,github,vercel,netlify,tailwind,bootstrap,figma,vscode&perline=13" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,python,java,c,solidity,git,github,vercel,tailwind,bootstrap,vscode&perline=13" />
   </a>
 </p>
 
@@ -101,14 +103,19 @@ const arnavraj = {
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
 </p>
 
+### <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40"> Mobile Development
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/Expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" />
+</p>
+
 ### <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="40"> Database & Cloud
 
 <p align="left">
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
+  <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" />
 </p>
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Blockchain & Web3
@@ -118,6 +125,13 @@ const arnavraj = {
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" />
   <img src="https://img.shields.io/badge/Web3-%23F16822.svg?style=for-the-badge&logo=web3.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=white" />
+</p>
+
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> AI & Machine Learning
+
+<p align="left">
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -155,7 +169,7 @@ const arnavraj = {
 <a href="https://github.com/arnavraj-7/Spotify-Clone" target="_blank"><img src="https://img.shields.io/badge/📂 Code-4ECDC4?style=for-the-badge" /></a>
 <br><br>
 <p><strong>🎵 Real-time Music Experience</strong></p>
-<p>Full-stack music streaming platform with real-time chat,user activity in real time, and premium music experience.</p>
+<p>Full-stack music streaming platform with real-time chat, user activity tracking, and premium music experience.</p>
 </div>
 </td>
 <td width="50%">
@@ -171,21 +185,22 @@ const arnavraj = {
 </tr>
 <tr>
 <td width="50%">
+<h3 align="center">📱 AnimeVerse</h3>
+<div align="center">
+<a href="https://expo.dev/accounts/arnavraj/projects/animeverse/builds/04253764-914d-4583-993e-1e9d62c1d5df" target="_blank"><img src="https://img.shields.io/badge/📱 APK Download-FF9500?style=for-the-badge" /></a>
+<a href="https://github.com/arnavraj-7/AnimeVerse" target="_blank"><img src="https://img.shields.io/badge/📂 Code-DDA0DD?style=for-the-badge" /></a>
+<br><br>
+<p><strong>🎌 Complete Anime Experience</strong></p>
+<p>React Native app with MyAnimeList API integration, search functionality, recommendations, trailers, and AI chatbot "Anime Senpai" powered by Gemini API.</p>
+</div>
+</td>
+<td width="50%">
 <h3 align="center">📌 TaskFlow</h3>
 <div align="center">
 <a href="https://github.com/arnavraj-7/TaskFlow" target="_blank"><img src="https://img.shields.io/badge/📂 Code-FFEAA7?style=for-the-badge" /></a>
 <br><br>
 <p><strong>⚡ Productivity Task Manager</strong></p>
 <p>Kanban-style to-do manager built with React + Zustand for ultimate productivity.</p>
-</div>
-</td>
-<td width="50%">
-<h3 align="center">🎨 Memory Canvas</h3>
-<div align="center">
-<a href="https://github.com/arnavraj-7/Memory-Canvas" target="_blank"><img src="https://img.shields.io/badge/📂 Code-DDA0DD?style=for-the-badge" /></a>
-<br><br>
-<p><strong>🧠 Creative Thought Saver (WIP)</strong></p>
-<p>Innovative app for saving and visualizing your thoughts creatively.</p>
 </div>
 </td>
 </tr>
@@ -201,20 +216,23 @@ const arnavraj = {
 ### 🔭 **Now Building:**
 
 - 🚀 Real-world MERN Stack Projects
+- 📱 Cross-platform Mobile Applications
 - ⛓️ Full-fledged Blockchain dApps
+- 🤖 AI-powered Applications
 - 🎨 UI-heavy Frontends using AI Tools
-- 📱 Mobile-responsive Web Applications
 
 ### 🌱 **Currently Learning:**
 
 - 🔥 ThirdWeb / Advanced Solidity
+- 🤖 Advanced AI Integration (LangChain)
+- 📱 Advanced React Native & Expo
 - 🐳 Microservices + DevOps (Docker, K8s)
-- 🤖 ML-powered Web Applications
-- ☁️ AWS Cloud Architecture
+- ☁️ Cloud Architecture
 
 ### 🎯 **2025 Goals:**
 
 - ✅ Ship 10+ full-stack projects
+- 📱 Launch 5+ mobile applications
 - 💼 Land freelance gigs / internships
 - 🏆 Improve CP + open-source contributions
 - 📚 Master Web3 development ecosystem
@@ -231,7 +249,7 @@ const arnavraj = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <b>Let’s Connect</b>
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <b>Let's Connect</b>
 
 <div align="center">
 <a href="https://www.linkedin.com/in/arnav-raj-7142b8313" target="_blank">
@@ -276,9 +294,9 @@ const arnavraj = {
 <div align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 
-### 💡 *“First, solve the problem. Then, write the code.”*
+### 💡 *"First, solve the problem. Then, write the code."*
 
-### 🚀 *Thanks for visiting! Let’s build something amazing together!*
+### 🚀 *Thanks for visiting! Let's build something amazing together!*
 
   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 </div>
