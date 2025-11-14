@@ -25,9 +25,8 @@
 const arnavraj = {
     education: {
         institution: "MNNIT Allahabad",
-        degree: "B.Tech in Engineering & Computational Mechanics",
-        cpi: 7.91,
-        focus: ["Distributed Systems", "ML", "Cybersecurity"]
+        degree: "B.Tech in Electronics and Communication Engineering",
+        focus: ["App Development","Web Development","Gen AI"]
     },
     code: ["JavaScript", "TypeScript", "Python", "Java", "Solidity", "C/C++"],
     technologies: {
