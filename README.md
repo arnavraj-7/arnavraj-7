@@ -11,10 +11,10 @@ const arnav = {
   education:    "B.Tech ECE @ MNNIT Allahabad",
   code:         ["TypeScript", "JavaScript", "Python", "Java", "Solidity"],
   frontend:     ["React", "Next.js", "React Native", "Expo", "Tailwind CSS"],
-  backend:      ["Node.js", "Express.js", "PostgreSQL", "MongoDB", "SQLite"],
+  backend:      ["Node.js", "Express.js", "MongoDB", "SQLite"],
   mobile:       ["React Native", "Expo", "Reanimated"],
   blockchain:   ["Solidity", "Hardhat", "Ethers.js", "IPFS"],
-  ai:           ["LangChain", "Gemini API", "PyTorch"],
+  ai:           ["LangChain", "Gemini API"],
   currentFocus: ["Open-source tooling", "Stealth startup in aviation", "Web3 dApps"],
 }
 ```
