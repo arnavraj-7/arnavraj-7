@@ -15,7 +15,7 @@ const arnav = {
   mobile:       ["React Native", "Expo", "Reanimated"],
   blockchain:   ["Solidity", "Hardhat", "Ethers.js", "IPFS"],
   ai:           ["LangChain", "Gemini API", "PyTorch"],
-  currentFocus: ["Open-source tooling", "EdTech mobile apps", "Web3 dApps"],
+  currentFocus: ["Open-source tooling", "Stealth startup in aviation", "Web3 dApps"],
 }
 ```
 
@@ -26,18 +26,18 @@ const arnav = {
 ### [Native Mate](https://native-mate.vercel.app/)
 An open-source component library for React Native — 30 production-ready components with Reanimated animations, gesture handling, and a token-based theming engine (4 presets, dark/light modes).
 
-Developers own the source code via a CLI (`init`, `add`, `upgrade`) — no npm lock-in. Ships with a VS Code extension and MCP server for AI-assisted component discovery, plus a docs site with live previews and an Expo demo app.
+Developers own the source code via a CLI (`init`, `add`, `upgrade`) — no npm lock-in. Ships with a VS Code extension, a Figma plugin for design-to-code handoff, and MCP servers for both Claude and Cursor for AI-assisted component discovery and integration. Docs site with live previews and an Expo demo app.
 
-`React Native` `Reanimated` `Expo` `TypeScript` `Commander.js` `MCP SDK` `Next.js` `Fumadocs`
+`React Native` `Reanimated` `Expo` `TypeScript` `Commander.js` `MCP SDK` `Figma Plugin API` `Next.js` `Fumadocs`
 
 ---
 
-### DreamVator *(In Progress)*
-An aviation EdTech app targeting CPL/ATPL aspirants — structured course content, AI-powered chat, MCQ generation, and a Netflix-style protected video player.
+### DreamVator *(Stealth — CPO)*
+Something is broken in how the aviation industry works. DreamVator is being built to fix it.
 
-Features a full auth system with token rotation and secure storage, UPI-based enrollment flow, and AI chat backed by LangChain + Gemini with local SQLite history and simulated streaming.
+As CPO, I own the product vision, end-to-end user experience, and all design decisions — from defining what we build and why, to the UI systems, interaction patterns, and how the product feels in a pilot's hands. Everything a user sees and touches is my responsibility.
 
-`React Native` `Expo Router` `Zustand` `TanStack Query` `Express.js` `PostgreSQL` `LangChain` `Gemini`
+*Details under wraps for now.*
 
 ---
 
