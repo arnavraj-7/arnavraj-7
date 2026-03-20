@@ -32,8 +32,8 @@ Developers own the source code via a CLI (`init`, `add`, `upgrade`) — no npm l
 
 ---
 
-### DreamVator *(Stealth — CPO)*
-Something is broken in how the aviation industry works. DreamVator is being built to fix it.
+### Dreamvator *(Stealth — CPO)*
+Something is broken in how the aviation industry works. Dreamvator is being built to fix it.
 
 As CPO, I own the product vision, end-to-end user experience, and all design decisions — from defining what we build and why, to the UI systems, interaction patterns, and how the product feels in a pilot's hands. Everything a user sees and touches is my responsibility.
 
