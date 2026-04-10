@@ -14,7 +14,7 @@ const arnav = {
   backend:      ["Node.js", "Express.js", "MongoDB", "SQLite"],
   mobile:       ["React Native", "Expo", "Reanimated"],
   blockchain:   ["Solidity", "Hardhat", "Ethers.js", "IPFS"],
-  ai:           ["LangChain", "Gemini API"],
+  ai:           ["LangChain", "Langgraph"],
   currentFocus: ["Open-source tooling", "Stealth startup in aviation", "Web3 dApps"],
 }
 ```
